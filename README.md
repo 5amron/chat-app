@@ -4,4 +4,4 @@ multithread python console chatting
 
 
 samanSadeghyan
-samronsadeghyan@gmail.com
+s.sadeghy325@gmail.com
